@@ -4,6 +4,7 @@ import plotly.graph_objects as go
 import dash
 from dash import html, dcc
 from dash.dependencies import Input, Output
+import matplotlib.plyplot as plt
 
 
 # external css stylesheets
